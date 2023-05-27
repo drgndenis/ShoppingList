@@ -61,7 +61,7 @@ class DetailsViewController: UIViewController, UIImagePickerControllerDelegate, 
             }
             
         } else {
-            // 
+            // Urun ekleme sirasinda save button davranislari
             saveButton.isHidden = false
             saveButton.isEnabled = false
             // Textlerin bos gelmesi
