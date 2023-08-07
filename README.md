@@ -13,12 +13,12 @@ ShoppingList is a simple shopping app developed using Swift and UIKit. With this
 
 ## 📸 Screenshots
 
-<img width="310" alt="Products" src="https://github.com/drgndenis/ShoppingList/assets/101059619/002a4a76-aa83-4365-9a91-d649156a1c87">
-<img width="310" alt="ProductDelete" src="https://github.com/drgndenis/ShoppingList/assets/101059619/81e93e0f-7ae9-45e7-8764-139e69f314dd">
-<img width="310" alt="Add" src="https://github.com/drgndenis/ShoppingList/assets/101059619/18fb9727-e0fa-4452-a0c1-26c4a27594e5">
-<img width="310" alt="Details" src="https://github.com/drgndenis/ShoppingList/assets/101059619/0251ac19-87c0-4c1c-951c-b591075fb444">
-<img width="310" alt="Details-2" src="https://github.com/drgndenis/ShoppingList/assets/101059619/3985138f-ec02-4708-8142-bcfea5ac0111">
-<img width="310" alt="Details-3" src="https://github.com/drgndenis/ShoppingList/assets/101059619/2acd3153-48a8-41c7-a42b-ff23073b7ba3">
+<img width="280" alt="Products" src="https://github.com/drgndenis/ShoppingList/assets/101059619/002a4a76-aa83-4365-9a91-d649156a1c87">
+<img width="280" alt="ProductDelete" src="https://github.com/drgndenis/ShoppingList/assets/101059619/81e93e0f-7ae9-45e7-8764-139e69f314dd">
+<img width="280" alt="Add" src="https://github.com/drgndenis/ShoppingList/assets/101059619/18fb9727-e0fa-4452-a0c1-26c4a27594e5">
+<img width="280" alt="Details" src="https://github.com/drgndenis/ShoppingList/assets/101059619/0251ac19-87c0-4c1c-951c-b591075fb444">
+<img width="280" alt="Details-2" src="https://github.com/drgndenis/ShoppingList/assets/101059619/3985138f-ec02-4708-8142-bcfea5ac0111">
+<img width="280" alt="Details-3" src="https://github.com/drgndenis/ShoppingList/assets/101059619/2acd3153-48a8-41c7-a42b-ff23073b7ba3">
 
 ## 💻 Requirements
 iOS 16.0 or later
