@@ -1,17 +1,36 @@
-# ShoppingList
-Basic shopping list where data is on CoreData
+# 🛒 ShoppingList App
 
-# Screen Shots #
-<div>
-  <img width= "270" alt="Products_Page" src="https://github.com/drgndenis/ShoppingList/assets/101059619/5abbeb11-737b-4539-8f1a-7732dcbef28d">
-  <img width= "270" alt="Product_Delete" src="https://github.com/drgndenis/ShoppingList/assets/101059619/92b5b3e6-5f3d-4db8-b1e6-61da4fa86704">
-  <br>
-  <img width= "270" alt="Save_Product" src="https://github.com/drgndenis/ShoppingList/assets/101059619/f20692ee-e0cd-4e35-941f-1039f07ffa4e">
-  <img width= "270" alt="Active_Save" src="https://github.com/drgndenis/ShoppingList/assets/101059619/3aaceaa1-9e6e-456f-b760-1aba1dc11ef0">
-  <br>
-  <img width= "270" alt="Product_View" src="https://github.com/drgndenis/ShoppingList/assets/101059619/cb8c842a-d805-4c71-be66-cb26031c2063">
-  <img width= "270" alt="Product_View2" src="https://github.com/drgndenis/ShoppingList/assets/101059619/56a52534-ec83-46ec-86e5-54cfa5dc16f0">
-  <br>
-  <img width= "270" alt="Product_View2" src="https://github.com/drgndenis/ShoppingList/assets/101059619/5632cff5-524f-4abd-ab61-498ebda17307">
-</div>
+ShoppingList is a simple shopping app developed using Swift and UIKit. With this app, you can easily manage your shopping lists.
+
+## 🎯 Features
+
+- Tapping the + button in the upper right corner directs you to a page where you can enter the necessary information to add a new product.
+- After entering details such as product image, name, price, and size, you can save the product by tapping the "Save" button.
+- Saved products are displayed in a TableView list on the "Products" page.
+- Each product allows you to view its detailed information by tapping on its name.
+- To delete a product, you can swipe left on the list item and use the "Delete" button.
+- The app utilizes CoreData to store data locally.
+
+## 📸 Screenshots
+
+<img width="310" alt="Products" src="https://github.com/drgndenis/ShoppingList/assets/101059619/002a4a76-aa83-4365-9a91-d649156a1c87">
+<img width="310" alt="ProductDelete" src="https://github.com/drgndenis/ShoppingList/assets/101059619/81e93e0f-7ae9-45e7-8764-139e69f314dd">
+<img width="310" alt="Add" src="https://github.com/drgndenis/ShoppingList/assets/101059619/18fb9727-e0fa-4452-a0c1-26c4a27594e5">
+<img width="310" alt="Details" src="https://github.com/drgndenis/ShoppingList/assets/101059619/0251ac19-87c0-4c1c-951c-b591075fb444">
+<img width="310" alt="Details-2" src="https://github.com/drgndenis/ShoppingList/assets/101059619/3985138f-ec02-4708-8142-bcfea5ac0111">
+<img width="310" alt="Details-3" src="https://github.com/drgndenis/ShoppingList/assets/101059619/2acd3153-48a8-41c7-a42b-ff23073b7ba3">
+
+## 💻 Requirements
+iOS 16.0 or later
+<br>
+Xcode 14.0 or later
+
+## Data Persistence
+CoreData - Used for local data storage and management.
+
+## ⚙️ Installation
+
+1. Clone or download this repository to your computer.
+2. Navigate to the project directory and open the `.xcodeproj` file with Xcode.
+3. Once you have the project file open in Xcode, you can run the project on a simulator or a physical device.
 
